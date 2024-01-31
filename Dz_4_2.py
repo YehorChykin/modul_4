@@ -19,4 +19,4 @@ def get_cats_info(path):
     return list_cats
 
 cats_info = get_cats_info(path)
-print(*cats_info)
+print(cats_info)
